@@ -1,6 +1,29 @@
 /* Your Website Styles */
 
 
+body{
+
+	background: url("../img/bg.png") #29A9FF;
+}
+
+h1{
+	background: red;
+	padding: 10px;
+	border: 10px black dotted;
+	width: 300px;
+	font-family: 'Montserrat', sans-serif;
+	color: #E00083;
+	font-style: italic;
+	margin: 10px;
+
+}
+
+p{
+
+	line-height: 36px;
+
+}
+
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
