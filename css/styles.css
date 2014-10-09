@@ -18,6 +18,21 @@ h1{
 
 }
 
+#name{
+	color: white;
+
+}
+
+h3{
+
+	color: blue;
+
+}
+
+#leadin {
+	background: teal;
+}
+
 p{
 
 	line-height: 36px;
@@ -27,4 +42,11 @@ p{
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+}
+
+.subhead {
+
+font-style:italic;
+margin-left: 30px;
+
 }
